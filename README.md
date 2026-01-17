@@ -7,8 +7,8 @@ I enjoy building reliable, scalable backend systems and improving performance in
 
 ## 🚀 About Me
 
-- 💻 Backend Engineer with strong experience in **Ruby on Rails**
-- 🧠 Focused on **APIs, background jobs, data-heavy workflows**, and system stability
+- 💻 Backend Engineer with strong experience in **Ruby on Rails**, **React**, **Type script**
+- 🧠 Focused on **Frontend developement, APIs, background jobs, data-heavy workflows**, and system stability
 - 🏗 Comfortable working in **mature codebases** and shipping features at pace
 - ⚙️ Pragmatic problem-solver with a delivery-first mindset
 - 🌱 Constantly learning and improving system design and performance
@@ -18,7 +18,7 @@ I enjoy building reliable, scalable backend systems and improving performance in
 ## 🛠 Tech Stack
 
 **Languages**
-- Ruby, Python, C++, SQL
+- JS, Type script, Ruby, Python, C++, SQL
 
 **Frameworks & Tools**
 - Ruby on Rails, FastAPI
